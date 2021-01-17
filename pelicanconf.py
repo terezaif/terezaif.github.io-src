@@ -9,7 +9,7 @@ CURRENT_DIR_PATH = Path(__file__).resolve().parent
 # Site Settings
 AUTHOR = 'Tereza Iofciu'
 SITENAME = 'Tereza Iofciu'
-SITEURL =   'http://localhost:8000'  
+SITEURL =   'http://terezaiofciu.com'  
 THEME = '{}/voce'.format(CURRENT_DIR_PATH)
 PATH = 'content'
 
@@ -22,7 +22,7 @@ SUMMARY_MAX_LENGTH = 30
 # Feed Generation
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ALL_RSS = 'fees/all.rss.xml'
-FEED_DOMAIN = 'http://localhost:8000' 
+FEED_DOMAIN = 'http://terezaiofciu.com' 
 
 # Page Settings
 PAGE_SAVE_AS = '{slug}.html'
