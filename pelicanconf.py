@@ -51,7 +51,7 @@ DELETE_OUTPUT_DIRECTORY = False
 # Custom Vars
 GOOGLE_ANALYTICS_ID = 'G-BL4GZ3S84L'
 GOOGLE_ANALYTICS_PROP = 'Personal'
-USER_LOGO_URL = 'themes/images/tereza.png'
+USER_LOGO_URL = 'theme/images/tereza.png'
 MANGLE_EMAILS = True
 FUZZY_DATES = True
 CURRENT_YEAR = datetime.now().year
