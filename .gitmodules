@@ -1,0 +1,6 @@
+[submodule "voce"]
+	path = voce
+	url = https://github.com/terezaif/voce.git
+[submodule "output"]
+	path = output
+	url = git@github.com:terezaif/terezaif.github.io.git
