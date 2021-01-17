@@ -9,18 +9,18 @@ Slug: talks
 * FemTechConf Sept 2020: [How is leadership different in data science from engineering?](https://femtechconf.com/#speakers)
 * WiMLDS July 2020: [Unit Testing for Data Science Workshop](https://github.com/wimlds/berlin-tdd-workshop)
 * Hack|Bay Keynote May 2020: [Product Management and Data Science](https://youtu.be/qq9OVvmCqSc?t=1737) 
+
 <details> 
 <summary> Click here to expand for talks prior to 2020 👇🏽 </summary>
 
-	### 2019
-    * CodeDive Nov 2019- [Project Management in Data Science Teams](https://www.youtube.com/watch?v=OGRyQzy8RRU&feature=youtu.be)
-    * PyCon/PyData Berlin Oct 2019- [Lessons Learned as a Product Manager in Data Science](https://dev.tube/video/4HDLg2V3nYA)
-    * PyCon/PyData Berlin Oct 2019- [Freelancing & Academia to Industry panel](https://dev.to/barrachri/freelancing-academia-to-industry-panel-3f0i)
-    * PyLadies at PyCon/PyData Berlin Oct 2019- [IOT Workshop](https://twitter.com/PyLadiesHH/status/1182926221010767872?s=20)
-	* Python Pizza Night Berlin Aug 2019- [Tech conferences and Diversity.. are we there yet?](https://night.berlin.python.pizza/?ref=python.pizza)
-    * Applied Machine Learning Days Jan 2019- [Data Exploration Workshop](https://github.com/terezaif/workshops_data_exploration)
+    ### 2019
+    * CodeDive Nov 2019 - [Project Management in Data Science Teams](https://www.youtube.com/watch?v=OGRyQzy8RRU&feature=youtu.be)
+    * PyCon/PyData Berlin Oct 2019 - [Lessons Learned as a Product Manager in Data Science](https://dev.tube/video/4HDLg2V3nYA)
+    * PyCon/PyData Berlin Oct 2019 - [Freelancing & Academia to Industry panel](https://dev.to/barrachri/freelancing-academia-to-industry-panel-3f0i)
+    * PyLadies at PyCon/PyData Berlin Oct 2019 - [IOT Workshop](https://twitter.com/PyLadiesHH/status/1182926221010767872?s=20)
+    * Python Pizza Night Berlin Aug 2019 - [Tech conferences and Diversity.. are we there yet?](https://night.berlin.python.pizza/?ref=python.pizza)
+    * Applied Machine Learning Days Jan 2019 - [Data Exploration Workshop](https://github.com/terezaif/workshops_data_exploration)
    
-
 	### 2018 
     * TechFest Bucharest Aug 2018 - [Deploying ML solutions in production](https://olivian.ro/techfest-2018/)
 	* WeAreDevs Vienna Aug 2018 - [Data Science Behind the Scenes](https://youtu.be/Ws8dDGvBGZo)
@@ -42,17 +42,14 @@ Slug: talks
     ### 2007
     * ICWE Como July 2007 - [Integrating Databases, Search Engines and Web Applications: A Model-Driven Approach](https://dblp.org/db/conf/icwe/icwe2007.html#BozzonINT07)
 	
-	
-
 </details>
 
-
 <h3 id=orga>Organizer and Curator</h3>
-* Python Pizza New Year's Party Dec 2020- [Conference organizers](https://hamburg.python.pizza)
-* Applied Machine Learning Days Jan 2020- [AI & Trust - Security Track Organizer](https://appliedmldays.org/events/amld-epfl-2020)
-* Python Pizza Hamburg Nov 20219- [Conference organizers](https://2019.hamburg.python.pizza)
-* CodeTalks Oct 2019- [AI Track Curator](https://www.codetalks.de)
-* Applied Machine Learning Days Jan 2019- [AI & Trust - Security Track Organizer](https://appliedmldays.org/events/amld-epfl-2019)
+* Python Pizza New Year's Party Dec 2020 - [Conference organizers](https://hamburg.python.pizza)
+* Applied Machine Learning Days Jan 2020 - [AI & Trust - Security Track Organizer](https://appliedmldays.org/events/amld-epfl-2020)
+* Python Pizza Hamburg Nov 20219 - [Conference organizers](https://2019.hamburg.python.pizza)
+* CodeTalks Oct 2019 - [AI Track Curator](https://www.codetalks.de)
+* Applied Machine Learning Days Jan 2019 - [AI & Trust - Security Track Organizer](https://appliedmldays.org/events/amld-epfl-2019)
 
 
 
