@@ -73,3 +73,5 @@ MARKDOWN = {
     },
     'output_format': 'html5',
 }
+
+OUTPUT_RETENTION = ['CNAME', '.git', 'README.md']
