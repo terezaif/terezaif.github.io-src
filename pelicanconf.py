@@ -62,3 +62,14 @@ DIRECT_TEMPLATES = ['sitemap', 'index']
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+# Markdown
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'pymdownx.details': {}
+    },
+    'output_format': 'html5',
+}

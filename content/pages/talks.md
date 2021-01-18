@@ -10,9 +10,8 @@ Slug: talks
 * WiMLDS July 2020: [Unit Testing for Data Science Workshop](https://github.com/wimlds/berlin-tdd-workshop)
 * Hack|Bay Keynote May 2020: [Product Management and Data Science](https://youtu.be/qq9OVvmCqSc?t=1737) 
 
-<details> 
-<summary> Click here to expand for talks prior to 2020 👇🏽 </summary>
 
+??? optional-class  "Click here to expand for talks prior to 2020 👇🏽" 
     ### 2019
     * CodeDive Nov 2019 - [Project Management in Data Science Teams](https://www.youtube.com/watch?v=OGRyQzy8RRU&feature=youtu.be)
     * PyCon/PyData Berlin Oct 2019 - [Lessons Learned as a Product Manager in Data Science](https://dev.tube/video/4HDLg2V3nYA)
@@ -42,7 +41,6 @@ Slug: talks
     ### 2007
     * ICWE Como July 2007 - [Integrating Databases, Search Engines and Web Applications: A Model-Driven Approach](https://dblp.org/db/conf/icwe/icwe2007.html#BozzonINT07)
 	
-</details>
 
 <h3 id=orga>Organizer and Curator</h3>
 * Python Pizza New Year's Party Dec 2020 - [Conference organizers](https://hamburg.python.pizza)

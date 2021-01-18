@@ -1,3 +1,4 @@
 pelican==4.0.0
 markdown
+pymdown-extensions
 pathlib
