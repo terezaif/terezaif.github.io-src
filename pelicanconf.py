@@ -49,8 +49,8 @@ PLUGIN_PATHS = ['{}/plugins'.format(THEME)]
 DELETE_OUTPUT_DIRECTORY = False
 
 # Custom Vars
-GOOGLE_ANALYTICS_ID = 'G-BL4GZ3S84L'
-GOOGLE_ANALYTICS_PROP = 'Personal'
+GOOGLE_ANALYTICS_ID = 'G-BQY8XBH619'
+GOOGLE_ANALYTICS_PROP = 'Tereza Iofciu Personal'
 USER_LOGO_URL = 'theme/images/tereza.png'
 MANGLE_EMAILS = True
 FUZZY_DATES = True

@@ -1,5 +1,5 @@
 Title: Starting a PyLadies local meetup
-tags: pyladies, beginning, procrastination, tech, diversity, meetup, community, pyhton, Hamburg
+tags: pyladies, beginning, procrastination, tech, diversity, meetup, community, python, Hamburg
 Date: 2018-11-01 
 
 
@@ -57,7 +57,7 @@ The event was lots of fun, six people showed up and we all decided together what
 
 
 After the first event it is all pretty much almost smooth sailing.. especially if one is not the only organizer.. it all feels like team work.. slack helps there with the communication. And sometimes some of us can take a break or all of us are taking a break.
-Once you start organizing meetups you realise that you have to asses how large your room should be. As the events are free a lot of people treat rsvp as calendar reminders. This happens also in the remote events. There is a simple rule though, and apparently everybody knows it:
+Once you start organizing meetups you realise that you have to assess how large your room should be. As the events are free a lot of people treat rsvp as calendar reminders. This happens also in the remote events. There is a simple rule though, and apparently everybody knows it:
 
 > around 50% of RSVPs on meetup show up
 
